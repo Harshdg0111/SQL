@@ -3,7 +3,7 @@
 
 **Amazon DataSet**
 ```sql
-
+## showing first five results only
 select
        *
 from amazon_sales_report
